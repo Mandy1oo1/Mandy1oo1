@@ -1,4 +1,4 @@
-<h1 align="left">Hey lovelies! Wlecome to my page!</h1>
+<h1 align="left">Hey lovelies! Welcome to my page!</h1>
 
 ###
 
